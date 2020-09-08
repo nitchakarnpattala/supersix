@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "supersix"
+    }
+  },
+  "defaultProject": "supersix",
+  "cli": {
+    "analytics": "51258d8b-c125-4de9-b6d9-ef8b2b7e2b4c"
+  }
 }
